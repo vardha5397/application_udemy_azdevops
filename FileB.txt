@@ -1,1 +1,2 @@
 This is file B
+A change made to file B
